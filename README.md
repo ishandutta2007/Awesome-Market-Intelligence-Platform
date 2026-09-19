@@ -53,9 +53,9 @@ Below is a breakdown of top commercial market research, company data, and deal i
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore open-source alternatives, dataset parsers, and intelligence frameworks. Repositories are sorted by GitHub star counts (descending). 🌟
+Explore open-source alternatives, dataset parsers, and intelligence frameworks. Repositories are sorted by GitHub Stars_Counts (descending). 🌟
 
-| 📦 Repository & Tool | 📝 Description | 🌟 Star Count Badge |
+| 📦 Repository & Tool | 📝 Description | 🌟 Stars_Count Badge |
 | :--- | :--- | :--- |
 | **[SpiderFoot](https://github.com/smicallef/spiderfoot)** 🕷️ | Automated OSINT reconnaissance framework for company, IP, domain, and entity intelligence. | [<img src="https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white" alt="SpiderFoot Stars"/>](https://github.com/smicallef/spiderfoot/stargazers) |
 | **[theHarvester](https://github.com/laramies/theHarvester)** 🌾 | OSINT tool for gathering company emails, subdomains, employee names, open ports, and banners. | [<img src="https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white" alt="theHarvester Stars"/>](https://github.com/laramies/theHarvester/stargazers) |
@@ -71,7 +71,7 @@ Explore open-source alternatives, dataset parsers, and intelligence frameworks. 
 
 1. **Fork** the repository 🍴
 2. **Add/Edit** entries in `README.md` following the tabular schema.
-3. Ensure **pricing**, **free tier limits**, and **star badges** follow the established structure.
+3. Ensure **pricing**, **free tier limits**, and **Stars_Badges** follow the established structure.
 4. **Submit a PR** with a clear description of changes! 🚀
 
 ---

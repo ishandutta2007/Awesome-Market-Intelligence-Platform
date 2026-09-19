@@ -1,211 +1,106 @@
-# Awesome-Market-Intelligence-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Market Intelligence Platform Banner" width="100%">
+</p>
 
-## Top Market Intelligence Platforms Ecosystem
+# 📊 Awesome Market Intelligence Platform 🚀
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Market-Intelligence-Platform/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-*Focused on Company Data, Startup & Funding Intelligence, Competitive Insights, Deal Sourcing & Business Research*
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Market Intelligence**. These systems aggregate company profiles, funding rounds, competitive signals, web traffic, news, and market data so investors, strategists, and sales teams can research markets and opportunities.
-
-
-
-**Examples** include CB Insights, Crunchbase, AlphaSense, PitchBook, Tracxn, Owler, Similarweb, ZoomInfo, GlobalData, and Dealroom (the category leaders).
-
-
-
-**Open-source emphasis**: Comprehensive, continuously updated market and private-company intelligence is largely commercial. Practical open options include **startup/company graph databases**, **open company datasets**, **news-based intelligence radars**, and OSINT-style research tools. This section lists the strongest available open resources and is realistic about coverage gaps.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[CB Insights](https://www.cbinsights.com/)**  
-
-  Market intelligence platform focused on emerging technology, startup ecosystems, predictive signals, and thematic research.
-
-
-
-- **[Crunchbase](https://www.crunchbase.com/)**  
-
-  Widely used company and funding database covering startups, investors, and business development intelligence.
-
-
-
-- **[AlphaSense](https://www.alpha-sense.com/)**  
-
-  AI-powered market intelligence and research platform searching filings, transcripts, news, and broker research for insights.
-
-
-
-- **[PitchBook](https://pitchbook.com/)**  
-
-  Comprehensive private-capital market data platform for PE, VC, M&A, and company intelligence with deep deal and fund coverage.
-
-
-
-- **[Tracxn](https://tracxn.com/)**  
-
-  Startup and emerging-tech tracking platform used for deal sourcing, competitive landscapes, and sector research.
-
-
-
-- **[Owler](https://www.owler.com/)**  
-
-  Company information and competitive intelligence platform with firmographics, news, and community-sourced insights.
-
-
-
-- **[Similarweb](https://www.similarweb.com/)**  
-
-  Digital market intelligence platform specializing in web traffic, engagement, and competitive digital benchmarks.
-
-
-
-- **[ZoomInfo](https://www.zoominfo.com/)**  
-
-  B2B database and go-to-market intelligence platform providing company and contact data for sales and marketing teams.
-
-
-
-- **[GlobalData](https://www.globaldata.com/)**  
-
-  Market research and intelligence provider covering industries, companies, and thematic analysis at scale.
-
-
-
-- **[Dealroom](https://dealroom.co/)**  
-
-  European-rooted startup and ecosystem intelligence platform focused on funding, companies, and innovation landscapes.
-
-
-
-## Open-Source GitHub Projects
-
-- **[StartupGraph and open startup databases](https://github.com/)**  
-
-  Open-source graphs of startups, funding rounds, headcount, and related signals designed for research and AI-agent use.
-
-
-
-- **[Open company databases for deal sourcing](https://github.com/)**  
-
-  Self-hostable company datasets and BI-ready databases built for sales and investment intelligence workflows.
-
-
-
-- **[Market Intelligence Radar-style projects](https://github.com/)**  
-
-  Open platforms that scan news, extract entities (companies, people, deals), enrich records, and surface signals in dashboards.
-
-
-
-- **[OpenCorporates and public company registry tools](https://github.com/)**  
-
-  Tools and APIs around open company registry data for firmographic research (coverage varies by jurisdiction).
-
-
-
-- **[SEC EDGAR and open filings parsers](https://github.com/)**  
-
-  Open parsers and pipelines for public company filings used in fundamental and competitive research.
-
-
-
-- **[OSINT company and people research frameworks](https://github.com/)**  
-
-  Open-source intelligence toolkits that aggregate public web, news, and social signals about organizations.
-
-
-
-- **[Web traffic and ranking open estimators](https://github.com/)**  
-
-  Community tools and datasets that approximate digital presence (less accurate than commercial panels).
-
-
-
-- **[Crunchbase-style open data mirrors and exporters](https://github.com/)**  
-
-  Scripts and partial datasets derived from public pages or research exports for offline analysis (respect ToS and law).
-
-
-
-- **[News monitoring + entity extraction open pipelines](https://github.com/)**  
-
-  Stacks that turn news feeds into structured company and deal intelligence for internal research.
-
-
-
-- **[Graph and knowledge-base open frameworks for markets](https://github.com/)**  
-
-  General knowledge-graph tools configured for companies, investors, and competitive relationships.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building internal **company graphs** from public registries, filings, news, and curated lists.
-
-- Using **news intelligence radars** to capture timely signals that commercial databases may lag on.
-
-- Combining open firmographic data with commercial platforms for enrichment and verification.
-
-- Accepting that deep private-market deal data, verified funding terms, analyst-quality research, and global coverage still require commercial platforms (PitchBook, CB Insights, AlphaSense, Crunchbase, Tracxn, Dealroom, etc.).
-
-- Focusing open-source efforts on transparency, custom taxonomies, and ownership of research workflows.
-
-
-
-**Frameworks for building custom systems**: Ingest public company and news data → extract entities and relationships → store in a graph or searchable DB → enrich selectively with commercial APIs → deliver insights via dashboards or agents. Suitable for research teams and startups building proprietary views. Most investors and strategy teams still rely on commercial market intelligence platforms for authoritative private-market and competitive data.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Company and market data may be subject to database rights, website terms, and privacy rules. Scraping or redistributing proprietary data can be unlawful. Always respect source licenses and applicable law. This list is not legal or investment advice.
-
-
+> **A curated, high-impact ecosystem list of top SaaS products & open-source tools for Market Intelligence, Deal Sourcing, Venture Capital, Competitive Analysis, and Business Research.** 💡
 
 ---
 
-**Made for investors, strategists, and researchers who need market and company intelligence.**
+## 💡 Overview & Market Insights 📈
 
-Let's keep market research insightful, transparent, and as open as practical.
+### 🌐 Market Size & Industry Dynamics
+* **Estimated Global Market Size:** The global market intelligence & business data industry is valued at **~$82.5 Billion** (2025/2026) and is projected to surpass **$140+ Billion by 2032**, driven by enterprise AI adoption, automated deal sourcing, and real-time data integration. 💰
+* **Market Structure & Fragmentation:** The sector is **moderately fragmented**. While legacy giants like ZoomInfo, AlphaSense, and PitchBook dominate high-end private equity and enterprise sales intelligence, specialized market radar tools, regional data platforms, and open-source entity extraction pipelines maintain strong operational niches. 🏢
+
+---
+
+## 📑 Table of Contents 📌
+
+- [🏢 SaaS / Commercial Platforms](#-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS / Commercial Platforms
+
+Below is a breakdown of top commercial market research, company data, and deal intelligence platforms, sorted by estimated company scale (valuation / enterprise size descending). 📊
+
+| 🏢 Platform | 📝 Description & Focus | 💰 Starting Tier Price | 🎁 Free Tier / Free Trial Limits | 📏 Enterprise Size / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ZoomInfo](https://www.zoominfo.com/)** 🚀 | Enterprise B2B intent data, company contacts, and go-to-market intelligence. | **~$15,000 / year** (Professional Tier starting rate) | **14-Day Free Trial** (Limited contact reveal credits & search results) | **~$20.7B Valuation** (Public TTM Revenue ~$1.2B) 🏛️ |
+| **[AlphaSense](https://www.alpha-sense.com/)** 🔍 | AI market research platform indexing SEC filings, transcript search, and broker research. | **~$10,000 / year** (Single user starter tier) | **7-Day Free Trial** (Restricted document downloads & export features) | **$7.5B Valuation** (ARR ~$600M+) 💎 |
+| **[PitchBook](https://pitchbook.com/)** 📈 | Premier private capital, PE, VC, M&A transactions, and startup deal sourcing database. | **~$24,000 / year** (Base user license rate) | **7-Day Free Trial** (Preview mode with locked export & contact privileges) | **$4.5B+ Valuation** (Subsidiary of Morningstar, 2024 Rev $618M) 🏛️ |
+| **[Similarweb](https://www.similarweb.com/)** 🌐 | Digital web traffic, mobile app benchmark analytics, and online competitive intelligence. | **$125 / month** (Starter plan billed annually) | **7-Day Free Trial** & **Free Tier** (Limited to 3 months of historical data & 5 website results) | **~$1.6B Valuation** (Public 2025 Revenue $282.6M) 📊 |
+| **[CB Insights](https://www.cbinsights.com/)** 🔮 | Technology market intelligence, startup exit predictions, and tech ecosystem mapping. | **~$20,000 / year** (Essentials tier starting rate) | **7-Day Free Trial** (Basic dashboard preview, non-exportable research) | **~$1.0B Valuation** (~$100M ARR) 🦄 |
+| **[GlobalData](https://www.globaldata.com/)** 🌍 | Sector intelligence, thematic research, financial dataset feeds, and macroeconomic data. | **~$5,000 / year** (Single sector package rate) | **7-Day Free Trial** (Limited sample research reports & dataset views) | **~$900M Market Cap** (Public LSE: DATA, Revenue £322M) 🏛️ |
+| **[Crunchbase](https://www.crunchbase.com/)** ⚡ | Global database for private startup funding, investor portfolios, and business signals. | **$49 / month** (Starter Pro tier billed annually) | **7-Day Free Trial** (Free tier limits searches to 5 results per query, no CSV exports) | **~$150M Market Cap / Valuation** (~$50M ARR) 🚀 |
+| **[Tracxn](https://tracxn.com/)** 🕵️‍♂️ | Emerging tech tracker, global VC deal sourcing, and sector market landscape maps. | **$300 / month** (Billed annually per user seat) | **7-Day Free Trial** (Limited to 10 company profile views) | **~$40M Market Cap** (Public NSE/BSE, Revenue ~₹84 Cr) 🇮🇳 |
+| **[Owler](https://www.owler.com/)** 📣 | Firmographic data, community company revenue insights, and news alerts. | **$35 / month** (Pro tier starting rate) | **Free Forever Plan** (Allows up to 5 company tracking profiles & basic alerts) | **~$25M Valuation** (Acquired by Meltwater, Revenue ~$4M) 🏢 |
+| **[Dealroom](https://dealroom.co/)** 🇪🇺 | European startup ecosystem intelligence, funding datasets, and innovation graphs. | **€300 / month** (Professional seat starter) | **7-Day Free Trial** (Restricted to basic ecosystem lookup, 5 exports) | **~$15M Valuation** (Revenue <$10M) 🇪🇺 |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Explore open-source alternatives, dataset parsers, and intelligence frameworks. Repositories are sorted by GitHub star counts (descending). 🌟
+
+| 📦 Repository & Tool | 📝 Description | 🌟 Star Count Badge |
+| :--- | :--- | :--- |
+| **[SpiderFoot](https://github.com/smicallef/spiderfoot)** 🕷️ | Automated OSINT reconnaissance framework for company, IP, domain, and entity intelligence. | [<img src="https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white" alt="SpiderFoot Stars"/>](https://github.com/smicallef/spiderfoot/stargazers) |
+| **[theHarvester](https://github.com/laramies/theHarvester)** 🌾 | OSINT tool for gathering company emails, subdomains, employee names, open ports, and banners. | [<img src="https://img.shields.io/github/stars/laramies/theHarvester?style=social&color=white" alt="theHarvester Stars"/>](https://github.com/laramies/theHarvester/stargazers) |
+| **[edgartools](https://github.com/dgunning/edgartools)** 📜 | Python toolkit for parsing SEC EDGAR public company filings, 10-K/10-Q financial statements, and insider trades. | [<img src="https://img.shields.io/github/stars/dgunning/edgartools?style=social&color=white" alt="edgartools Stars"/>](https://github.com/dgunning/edgartools/stargazers) |
+| **[OpenCorporates API Tools](https://github.com/api-evangelist/open-corporates)** 🏛️ | Open company registry tools and API definitions for querying global firmographic registries. | [<img src="https://img.shields.io/github/stars/api-evangelist/open-corporates?style=social&color=white" alt="OpenCorporates Stars"/>](https://github.com/api-evangelist/open-corporates/stargazers) |
+| **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** 📈 | Open-source stock market and financial intelligence platform for real-time company insights. | [<img src="https://img.shields.io/github/stars/Open-Dev-Society/OpenStock?style=social&color=white" alt="OpenStock Stars"/>](https://github.com/Open-Dev-Society/OpenStock/stargazers) |
+| **[YC Open Source Companies](https://github.com/yc-oss/open-source-companies)** 🚀 | Comprehensive dataset of open-source startups funded by Y Combinator. | [<img src="https://img.shields.io/github/stars/yc-oss/open-source-companies?style=social&color=white" alt="YC Open Source Companies Stars"/>](https://github.com/yc-oss/open-source-companies/stargazers) |
+| **[AI Startup Market Intelligence](https://github.com/ramilyabm/AI-Startup-Market-Intelligence)** 🤖 | Market research database tracking funding rounds, ARR, and valuation data for AI startups. | [<img src="https://img.shields.io/github/stars/ramilyabm/AI-Startup-Market-Intelligence?style=social&color=white" alt="AI Startup Stars"/>](https://github.com/ramilyabm/AI-Startup-Market-Intelligence/stargazers) |
+
+---
+
+## 🤝 How to Contribute 🛠️
+
+1. **Fork** the repository 🍴
+2. **Add/Edit** entries in `README.md` following the tabular schema.
+3. Ensure **pricing**, **free tier limits**, and **star badges** follow the established structure.
+4. **Submit a PR** with a clear description of changes! 🚀
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+If you find this market intelligence resource useful, consider supporting the project! Your support keeps this ecosystem list updated and helps fund continuous data curation. ✨
+
+* 🌟 **Star this repository** to help others discover it!
+* 🔀 **Fork** and contribute your favorite market intelligence tools.
+* ☕ **Buy me a coffee / Sponsor on GitHub:**  
+  [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Market-Intelligence-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Market-Intelligence-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer 🛡️
+
+* This list is **community-curated** for educational, investment research, and informational purposes.
+* All trademarks, brand names, and logos belong to their respective owners.
+* Scraping and redistributing proprietary database contents must adhere to source terms of service and applicable compliance regulations. 
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for investors, strategists, software engineers, and market researchers worldwide.</b>
+</p>

@@ -48,6 +48,7 @@ Below is a breakdown of top commercial market research, company data, and deal i
 | **[Tracxn](https://tracxn.com/)** 🕵️‍♂️ | Emerging tech tracker, global VC deal sourcing, and sector market landscape maps. | **$300 / month** (Billed annually per user seat) | **7-Day Free Trial** (Limited to 10 company profile views) | **~$40M Market Cap** (Public NSE/BSE, Revenue ~₹84 Cr) 🇮🇳 |
 | **[Owler](https://www.owler.com/)** 📣 | Firmographic data, community company revenue insights, and news alerts. | **$35 / month** (Pro tier starting rate) | **Free Forever Plan** (Allows up to 5 company tracking profiles & basic alerts) | **~$25M Valuation** (Acquired by Meltwater, Revenue ~$4M) 🏢 |
 | **[Dealroom](https://dealroom.co/)** 🇪🇺 | European startup ecosystem intelligence, funding datasets, and innovation graphs. | **€300 / month** (Professional seat starter) | **7-Day Free Trial** (Restricted to basic ecosystem lookup, 5 exports) | **~$15M Valuation** (Revenue <$10M) 🇪🇺 |
+| **[OpenSparta](https://opensparta.com/)** | Telegram workspace with Lead Radar for monitoring selected communities for buying requests and ranking matches with original-message evidence. | **$9 / month** (Lead Radar; $19 / month for all modules) | **14-day full-access trial** (10 active accounts; account and proxy tools remain free for up to 50 accounts) | Not publicly disclosed |
 
 ---
 
